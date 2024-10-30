@@ -6,7 +6,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorainier&layout=compact&langs_count=7&theme=yeblu"/>
 </div>
 
-- 🔭 I’m currently working on Hospital DFStar. 
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
+- 🔭 I’m currently looking for a programmer job. 
 - 🌱 I’m currently learning Fullstack.
 <!--
 
