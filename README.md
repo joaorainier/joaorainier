@@ -6,8 +6,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorainier&layout=compact&langs_count=7&theme=yeblu"/>
 </div>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,photoshop,python,html,css,js,react,typescript,nodejs,mysql,mongodb,git,github, &theme=dark" />
+  </a>
+</p>
 
 - 🔭 I’m currently looking for a programmer job. 
 - 🌱 I’m currently learning Fullstack.
