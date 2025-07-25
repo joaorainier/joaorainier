@@ -4,20 +4,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorainier&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-<p></p>
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,photoshop,discord,python,html,css,js,java,react,typescript,nodejs,git,github, &theme=dark" />
-  </a>
-</p>
-
-
-
-<!--
 
 
 
 
--->
+
