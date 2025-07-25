@@ -9,16 +9,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,photoshop,discord,python,html,css,js,java,react,typescript,nodejs,mysql,mongodb,git,github, &theme=dark" />
+    <img src="https://skillicons.dev/icons?i=windows,photoshop,discord,python,html,css,js,java,react,typescript,nodejs,git,github, &theme=dark" />
   </a>
 </p>
 
-<div align="center">
-- 🔭 I’m currently looking for a programmer job. 
-</div>
-<div align="center">
-  - 🌱 I’m currently learning Fullstack.
-</div>
+
 
 <!--
 
